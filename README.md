@@ -5,3 +5,6 @@ First part, it's the [formant filter from this ensemble in ADSR Tutorials](https
 I like the results, and even used an earlier version of this ensemble in a song of my band - [Uruborus](https://soundcloud.com/stoyca/uroborus).
 
 Any criticism or suggestions, you can drop me an e-mail (or open a ticket here on github).
+
+Walter Cruz
+waltercruz@gmail.com
